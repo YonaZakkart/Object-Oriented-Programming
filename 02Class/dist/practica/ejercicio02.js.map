@@ -1,0 +1,1 @@
+{"version":3,"file":"ejercicio02.js","sourceRoot":"","sources":["../../src/practica/ejercicio02.ts"],"names":[],"mappings":";;AAAA,IAAI,UAAU,GAAG;IACb,MAAM,EAAE,OAAO;IACf,OAAO,EAAE,wBAAwB;IACjC,OAAO;QACH,OAAO,CAAC,GAAG,CAAC,WAAW,GAAG,IAAI,CAAC,MAAM,GAAG,qBAAqB,GAAG,IAAI,CAAC,OAAO,CAAC,CAAA;IACjF,CAAC;CACJ,CAAC;AAEF,UAAU,CAAC,OAAO,EAAE,CAAA"}
