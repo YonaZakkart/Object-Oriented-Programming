@@ -22,7 +22,7 @@
 //     }
 // }
 // const u = new Usuario("1234");
-// console.log(u.validar(""));
+// console.log(u.validar("1234"));
 
 //3
 class Persona {
