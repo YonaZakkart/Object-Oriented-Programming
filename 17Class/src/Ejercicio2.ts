@@ -27,3 +27,6 @@ class Moto extends Vehiculo {
 
 const auto = new Carro("Honda")
 auto.mover()
+
+const moto = new Moto("Honda")
+moto.mover()
